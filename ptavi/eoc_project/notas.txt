@@ -1,0 +1,15 @@
+NOTAS ADICIONALES SOBRE LA PRÁCTICA
+///////////////////////////////////
+
+-Práctica documentada y adecuada a la guía PEP257.
+
+-Funcionalidad de hilos para la reproducción en VLC y para el vío RTP. He
+tenido que añadir dicha funcionalidad tanto a la parte cliente como a la
+servidora de los UA, dado que ambos envían y reciben. También he añadido
+comandos para parar la ejecución en ambos casos (siempre mediante os.system).
+
+-Con relación a la funcionalidad avanzada de reestablecimiento de usuarios
+en caso de caída, hay que decir que esto está siempre en funcionamiento, es
+decir, en caso de ejecutar dos veces seguidas (intencionadamente)
+el programa sin haber dado de baja a los clientes registrados la primera vez,
+en la segunda se encontrarán también dichos clientes registrados.

@@ -1,4 +1,3 @@
-# ptavi-p1
-Práctica 1 de PTAVI
+# First Practice (PTAVI)
 
-Éste es el repositorio padre.
+Learning Python.
