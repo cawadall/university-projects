@@ -1,0 +1,21 @@
+[submodule "ptavi/ptavi-p4"]
+	path = ptavi/p4/
+	url = https://github.com/gregoriorobles/ptavi-p4
+[submodule "ptavi/ptavi-p5"]
+	path = ptavi/p5/
+	url = https://github.com/gregoriorobles/ptavi-p5
+[submodule "ptavi/ptavi-p6"]
+	path = ptavi/p6/
+	url = https://github.com/gregoriorobles/ptavi-p6
+[submodule "ptavi/ptavi-pfinal"]
+	path = ptavi/eoc_project/
+	url = https://github.com/gregoriorobles/ptavi-pfinal
+[submodule "ptavi/ptavi-p2"]
+	path = ptavi/p2/
+	url = https://github.com/gregoriorobles/ptavi-p2
+[submodule "ptavi/ptavi-p3"]
+	path = ptavi/p3/
+	url = https://github.com/gregoriorobles/ptavi-p3
+[submodule "ptavi/ptavi-p1"]
+	path = ptavi/p1/
+	url = https://github.com/gregoriorobles/ptavi-p1
